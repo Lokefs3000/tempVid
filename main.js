@@ -49,7 +49,7 @@ function loaded() {
 
     if (location.pathname != "/" && location.pathname != "/gdat.html") {
         if (location.href.substring(location.href.lastIndexOf("?") + 1) != "enter=" + cyrb53("auhdad", 34720)) {
-            location.href = location.href.substring(0, location.href.indexOf("22")) + "gdat.html";
+            //location.href = location.href.substring(0, location.href.indexOf("22")) + "gdat.html";
         }
     }
     document.getElementById("sPassword").value = "SECRETPASS36";
