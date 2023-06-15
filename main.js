@@ -1,1 +1,110 @@
-var _0x1c06db=_0x48cb;function _0x304b(){var _0x33f94d=['1645278rhXpim','sSuccess','70BWhHZh','onresize','indexOf','fajdhdhfhdssedagaf','enter=','add','SECRETPASS36','sShown','3427776dtyQEO','location','6508808LXKdGS','innerHTML','4614rxRQjo','substring','charCodeAt','sVanish','length','/gdat.html','188444CSfblw','href','sTitle','sHidden','Password\x20accepted','sPassword','getElementById','lastIndexOf','.html?enter=','sWrong','classList','imul','9VlEUdy','4069400ZwFAcu','gdat.html','706jIuoWj','?enter','34109900etPlBl','toString','value','42avKQGH','auhdad','pathname','remove','gdat'];_0x304b=function(){return _0x33f94d;};return _0x304b();}function _0x48cb(_0xa327d5,_0x2aefe5){var _0x304b1c=_0x304b();return _0x48cb=function(_0x48cbac,_0x276cb1){_0x48cbac=_0x48cbac-0x1b3;var _0x9c2ce0=_0x304b1c[_0x48cbac];return _0x9c2ce0;},_0x48cb(_0xa327d5,_0x2aefe5);}(function(_0x3431ad,_0x4d485d){var _0x55e019=_0x48cb,_0x48be68=_0x3431ad();while(!![]){try{var _0x5f2f46=-parseInt(_0x55e019(0x1da))/0x1*(parseInt(_0x55e019(0x1c5))/0x2)+-parseInt(_0x55e019(0x1c1))/0x3+-parseInt(_0x55e019(0x1cb))/0x4*(parseInt(_0x55e019(0x1b9))/0x5)+parseInt(_0x55e019(0x1b7))/0x6*(parseInt(_0x55e019(0x1df))/0x7)+parseInt(_0x55e019(0x1c3))/0x8*(-parseInt(_0x55e019(0x1d7))/0x9)+parseInt(_0x55e019(0x1d8))/0xa+parseInt(_0x55e019(0x1dc))/0xb;if(_0x5f2f46===_0x4d485d)break;else _0x48be68['push'](_0x48be68['shift']());}catch(_0x105aed){_0x48be68['push'](_0x48be68['shift']());}}}(_0x304b,0xddd55),window[_0x1c06db(0x1ba)]=function(_0x1e4c77){});var timeUntilVanish=0x0,isHidden=!![],encryption;function vanishFrame(_0x57245a){var _0x301521=_0x1c06db;requestAnimationFrame(vanishFrame),timeUntilVanish-=0.016;if(timeUntilVanish<=0x0&&!isHidden)document[_0x301521(0x1d1)](_0x301521(0x1d4))[_0x301521(0x1d5)][_0x301521(0x1b5)](_0x301521(0x1c0)),document[_0x301521(0x1d1)](_0x301521(0x1d4))[_0x301521(0x1d5)]['add'](_0x301521(0x1ce)),isHidden=!![];else timeUntilVanish>0x0&&isHidden&&(document[_0x301521(0x1d1)](_0x301521(0x1d4))[_0x301521(0x1d5)][_0x301521(0x1b5)]('sHidden'),document[_0x301521(0x1d1)](_0x301521(0x1d4))[_0x301521(0x1d5)]['add'](_0x301521(0x1c0)),isHidden=![]);}const cyrb53=(_0x22ed2a,_0x3e559e=0x0)=>{var _0x41feb2=_0x1c06db;let _0x5ed192=0xdeadbeef^_0x3e559e,_0xca958e=0x41c6ce57^_0x3e559e;for(let _0x5aea1a=0x0,_0x1a7129;_0x5aea1a<_0x22ed2a[_0x41feb2(0x1c9)];_0x5aea1a++){_0x1a7129=_0x22ed2a[_0x41feb2(0x1c7)](_0x5aea1a),_0x5ed192=Math[_0x41feb2(0x1d6)](_0x5ed192^_0x1a7129,0x9e3779b1),_0xca958e=Math[_0x41feb2(0x1d6)](_0xca958e^_0x1a7129,0x5f356495);}return _0x5ed192=Math['imul'](_0x5ed192^_0x5ed192>>>0x10,0x85ebca6b),_0x5ed192^=Math[_0x41feb2(0x1d6)](_0xca958e^_0xca958e>>>0xd,0xc2b2ae35),_0xca958e=Math['imul'](_0xca958e^_0xca958e>>>0x10,0x85ebca6b),_0xca958e^=Math[_0x41feb2(0x1d6)](_0x5ed192^_0x5ed192>>>0xd,0xc2b2ae35),0x100000000*(0x1fffff&_0xca958e)+(_0x5ed192>>>0x0);};var password=0x1e94f164cfb584;function loaded(){var _0x16b2d7=_0x1c06db;requestAnimationFrame(vanishFrame),location[_0x16b2d7(0x1b4)]!='/'&&location[_0x16b2d7(0x1b4)]!='/gdat.html'&&(location['href'][_0x16b2d7(0x1c6)](location['href'][_0x16b2d7(0x1d2)]('?')+0x1)!=_0x16b2d7(0x1bd)+cyrb53(_0x16b2d7(0x1b3),0x87a0)&&(location[_0x16b2d7(0x1cc)]=location[_0x16b2d7(0x1cc)][_0x16b2d7(0x1c6)](0x0,location[_0x16b2d7(0x1cc)][_0x16b2d7(0x1bb)]('22'))+_0x16b2d7(0x1d9))),document[_0x16b2d7(0x1d1)]('sPassword')['value']=_0x16b2d7(0x1bf),location[_0x16b2d7(0x1cc)]['includes'](_0x16b2d7(0x1db))&&(location['href']=location[_0x16b2d7(0x1cc)][_0x16b2d7(0x1c6)](0x0,location[_0x16b2d7(0x1cc)][_0x16b2d7(0x1bb)](_0x16b2d7(0x1db))));}var usable=!![],ready=![];function checkPassword(){var _0x8f35ef=_0x1c06db;location['pathname']==_0x8f35ef(0x1ca)&&(location[_0x8f35ef(0x1cc)]=location[_0x8f35ef(0x1cc)]['substring'](0x0,location['href']['indexOf'](_0x8f35ef(0x1b6))));location[_0x8f35ef(0x1b4)]!='/'&&(location[_0x8f35ef(0x1b4)]='');if(ready)document[_0x8f35ef(0x1d1)](_0x8f35ef(0x1cd))[_0x8f35ef(0x1d5)]['add'](_0x8f35ef(0x1c8)),document[_0x8f35ef(0x1d1)]('sContinue')[_0x8f35ef(0x1d5)][_0x8f35ef(0x1be)]('sVanish'),setTimeout(function(){var _0x29a1b6=_0x8f35ef;document[_0x29a1b6(0x1c2)]+=cyrb53(cyrb53(cyrb53(password[_0x29a1b6(0x1dd)](),cyrb53('segsgsrdhdhs4aesawfawf',0x5da951705fc)),cyrb53('ssrhdjedseawta',0x211829eb)),cyrb53(_0x29a1b6(0x1bc),0x2862b12))+_0x29a1b6(0x1d3)+cyrb53(_0x29a1b6(0x1b3),0x87a0);},0x190);else{if(usable){var _0x2213ed=document[_0x8f35ef(0x1d1)](_0x8f35ef(0x1d0))[_0x8f35ef(0x1de)][_0x8f35ef(0x1dd)]();_0x2213ed=cyrb53(_0x2213ed[_0x8f35ef(0x1c6)](0x0,_0x2213ed[_0x8f35ef(0x1d2)]('SS')+0x2),_0x2213ed[_0x8f35ef(0x1c6)](_0x2213ed[_0x8f35ef(0x1d2)]('SS')+0x2,_0x2213ed[_0x8f35ef(0x1c9)])),cyrb53(_0x2213ed[_0x8f35ef(0x1dd)](),cyrb53(_0x8f35ef(0x1bc),0x2862b12))==cyrb53(password['toString'](),cyrb53(_0x8f35ef(0x1bc),0x2862b12))?(usable=![],document[_0x8f35ef(0x1d1)](_0x8f35ef(0x1cd))[_0x8f35ef(0x1d5)][_0x8f35ef(0x1be)](_0x8f35ef(0x1c8)),document['getElementById'](_0x8f35ef(0x1d0))[_0x8f35ef(0x1d5)]['add'](_0x8f35ef(0x1c8)),document[_0x8f35ef(0x1d1)]('sWrong')[_0x8f35ef(0x1d5)][_0x8f35ef(0x1be)](_0x8f35ef(0x1c8)),document['getElementById']('sContinue')[_0x8f35ef(0x1d5)][_0x8f35ef(0x1be)](_0x8f35ef(0x1c8)),document['getElementById']('sPassText')['classList'][_0x8f35ef(0x1be)](_0x8f35ef(0x1c8)),setTimeout(function(){var _0x568021=_0x8f35ef;document[_0x568021(0x1d1)](_0x568021(0x1cd))[_0x568021(0x1d5)][_0x568021(0x1b5)](_0x568021(0x1c8)),document['getElementById'](_0x568021(0x1cd))[_0x568021(0x1d5)][_0x568021(0x1be)](_0x568021(0x1b8)),document[_0x568021(0x1d1)]('sTitle')[_0x568021(0x1c4)]=_0x568021(0x1cf),document[_0x568021(0x1d1)](_0x568021(0x1d0))[_0x568021(0x1b5)](),document[_0x568021(0x1d1)](_0x568021(0x1d4))[_0x568021(0x1b5)](),document[_0x568021(0x1d1)]('sContinue')[_0x568021(0x1d5)]['remove'](_0x568021(0x1c8)),document[_0x568021(0x1d1)]('sPassText')['remove'](),ready=!![],usable=!![];},0x190)):timeUntilVanish=0x3;}}}
+window.onresize = function(ev) {
+    //document.getElementById("sMain").style.scale = Math.min(window.innerWidth, window.innerHeight) / 700
+}
+
+var timeUntilVanish = 0
+var isHidden = true;
+
+var encryption;
+
+function vanishFrame(dt) {
+    requestAnimationFrame(vanishFrame);
+
+    timeUntilVanish -= 0.016;
+
+    if (timeUntilVanish <= 0 && !isHidden) {
+        document.getElementById("sWrong").classList.remove("sShown");
+        document.getElementById("sWrong").classList.add("sHidden");
+        isHidden = true;
+    }
+    else if (timeUntilVanish > 0 && isHidden) {
+        document.getElementById("sWrong").classList.remove("sHidden");
+        document.getElementById("sWrong").classList.add("sShown");
+        isHidden = false;
+    }
+}
+
+const cyrb53 = (str, seed = 0) => {
+    let h1 = 0xdeadbeef ^ seed, h2 = 0x41c6ce57 ^ seed;
+    for(let i = 0, ch; i < str.length; i++) {
+        ch = str.charCodeAt(i);
+        h1 = Math.imul(h1 ^ ch, 2654435761);
+        h2 = Math.imul(h2 ^ ch, 1597334677);
+    }
+    h1  = Math.imul(h1 ^ (h1 >>> 16), 2246822507);
+    h1 ^= Math.imul(h2 ^ (h2 >>> 13), 3266489909);
+    h2  = Math.imul(h2 ^ (h2 >>> 16), 2246822507);
+    h2 ^= Math.imul(h1 ^ (h1 >>> 13), 3266489909);
+  
+    return 4294967296 * (2097151 & h2) + (h1 >>> 0);
+};
+
+var password = 8608013800682884;
+
+function loaded() {
+    requestAnimationFrame(vanishFrame);
+    //document.getElementById("sMain").style.scale = Math.min(window.innerWidth, window.innerHeight) / 700
+
+    console.log(location.pathname);
+
+    if (location.pathname != "/" && location.pathname != "/gdat.html") {
+        if (location.href.substring(location.href.lastIndexOf("?") + 1) != "enter=" + cyrb53("auhdad", 34720)) {
+            location.href = location.href.substring(0, location.href.indexOf("22")) + "gdat.html";
+        }
+    }
+    document.getElementById("sPassword").value = "SECRETPASS36";
+    if (location.href.includes("?enter")) {
+        location.href = location.href.substring(0, location.href.indexOf("?enter"));
+    }
+}
+
+var usable = true;
+var ready = false;
+
+function checkPassword() {
+    if (location.pathname == "/gdat.html") {
+        location.href = location.href.substring(0, location.href.indexOf("gdat"));
+    }
+    if (location.pathname != "/") {
+        location.pathname = "";
+    }
+    if (ready) {
+        document.getElementById("sTitle").classList.add("sVanish");
+        document.getElementById("sContinue").classList.add("sVanish");
+
+        setTimeout(function() {
+            document.location += cyrb53(cyrb53(cyrb53(password.toString(), cyrb53("segsgsrdhdhs4aesawfawf", 6436362323452)), cyrb53("ssrhdjedseawta", 555231723)), cyrb53("fajdhdhfhdssedagaf", 42347282)) + ".html?enter=" + cyrb53("auhdad", 34720);
+        }, 400)
+    }
+    else {
+        if (usable) {
+            var input = document.getElementById("sPassword").value.toString();
+            input = cyrb53(input.substring(0, input.lastIndexOf("SS") + 2), input.substring(input.lastIndexOf("SS") + 2, input.length));
+            if (cyrb53(input.toString(), cyrb53("fajdhdhfhdssedagaf", 42347282)) == cyrb53(password.toString(), cyrb53("fajdhdhfhdssedagaf", 42347282))) {
+                usable = false;
+    
+                document.getElementById("sTitle").classList.add("sVanish");
+                document.getElementById("sPassword").classList.add("sVanish");
+                document.getElementById("sWrong").classList.add("sVanish");
+                document.getElementById("sContinue").classList.add("sVanish");
+                document.getElementById("sPassText").classList.add("sVanish");
+    
+                setTimeout(function() {
+                    document.getElementById("sTitle").classList.remove("sVanish");
+                    document.getElementById("sTitle").classList.add("sSuccess");
+                    document.getElementById("sTitle").innerHTML = "Password accepted"
+                    document.getElementById("sPassword").remove();
+                    document.getElementById("sWrong").remove();
+                    document.getElementById("sContinue").classList.remove("sVanish");
+                    document.getElementById("sPassText").remove();
+    
+                    ready = true;
+                    usable = true;
+                }, 400)
+            }
+            else {
+                timeUntilVanish = 3;
+            }
+        }
+    }
+}
