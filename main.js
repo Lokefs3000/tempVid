@@ -1,1 +1,109 @@
-function _0xed36(_0x5e3eed,_0xf8956){var _0x1b6748=_0x1b67();return _0xed36=function(_0xed3611,_0x22917e){_0xed3611=_0xed3611-0x1ee;var _0x1bafa8=_0x1b6748[_0xed3611];return _0x1bafa8;},_0xed36(_0x5e3eed,_0xf8956);}var _0x520d42=_0xed36;(function(_0x6cbb39,_0x3a6c7a){var _0x47d2d5=_0xed36,_0x1d8891=_0x6cbb39();while(!![]){try{var _0xc6c48=-parseInt(_0x47d2d5(0x1fc))/0x1+parseInt(_0x47d2d5(0x1f7))/0x2+-parseInt(_0x47d2d5(0x1f2))/0x3*(-parseInt(_0x47d2d5(0x20c))/0x4)+parseInt(_0x47d2d5(0x21d))/0x5*(-parseInt(_0x47d2d5(0x21b))/0x6)+parseInt(_0x47d2d5(0x1ff))/0x7*(parseInt(_0x47d2d5(0x1fd))/0x8)+parseInt(_0x47d2d5(0x1fa))/0x9*(parseInt(_0x47d2d5(0x21c))/0xa)+-parseInt(_0x47d2d5(0x1f0))/0xb;if(_0xc6c48===_0x3a6c7a)break;else _0x1d8891['push'](_0x1d8891['shift']());}catch(_0x400a95){_0x1d8891['push'](_0x1d8891['shift']());}}}(_0x1b67,0xb5845),window[_0x520d42(0x1fb)]=function(_0x2dac55){});var timeUntilVanish=0x0,isHidden=!![],encryption;function vanishFrame(_0xe97af5){var _0x90d3f7=_0x520d42;requestAnimationFrame(vanishFrame),timeUntilVanish-=0.016;if(timeUntilVanish<=0x0&&!isHidden)document[_0x90d3f7(0x21a)](_0x90d3f7(0x1fe))[_0x90d3f7(0x214)]['remove'](_0x90d3f7(0x20f)),document[_0x90d3f7(0x21a)](_0x90d3f7(0x1fe))[_0x90d3f7(0x214)][_0x90d3f7(0x212)](_0x90d3f7(0x1f5)),isHidden=!![];else timeUntilVanish>0x0&&isHidden&&(document[_0x90d3f7(0x21a)]('sWrong')[_0x90d3f7(0x214)][_0x90d3f7(0x1f6)](_0x90d3f7(0x1f5)),document[_0x90d3f7(0x21a)](_0x90d3f7(0x1fe))[_0x90d3f7(0x214)][_0x90d3f7(0x212)]('sShown'),isHidden=![]);}const cyrb53=(_0x461e12,_0x1bc1b6=0x0)=>{var _0x3ef051=_0x520d42;let _0x5d5c35=0xdeadbeef^_0x1bc1b6,_0x1f92f5=0x41c6ce57^_0x1bc1b6;for(let _0x261a1e=0x0,_0x304e37;_0x261a1e<_0x461e12['length'];_0x261a1e++){_0x304e37=_0x461e12[_0x3ef051(0x200)](_0x261a1e),_0x5d5c35=Math[_0x3ef051(0x217)](_0x5d5c35^_0x304e37,0x9e3779b1),_0x1f92f5=Math['imul'](_0x1f92f5^_0x304e37,0x5f356495);}return _0x5d5c35=Math[_0x3ef051(0x217)](_0x5d5c35^_0x5d5c35>>>0x10,0x85ebca6b),_0x5d5c35^=Math[_0x3ef051(0x217)](_0x1f92f5^_0x1f92f5>>>0xd,0xc2b2ae35),_0x1f92f5=Math[_0x3ef051(0x217)](_0x1f92f5^_0x1f92f5>>>0x10,0x85ebca6b),_0x1f92f5^=Math[_0x3ef051(0x217)](_0x5d5c35^_0x5d5c35>>>0xd,0xc2b2ae35),0x100000000*(0x1fffff&_0x1f92f5)+(_0x5d5c35>>>0x0);};var password=0x1e94f164cfb584;function loaded(){var _0x3921b0=_0x520d42;requestAnimationFrame(vanishFrame),document[_0x3921b0(0x21a)](_0x3921b0(0x202))!=null&&(location[_0x3921b0(0x1f9)][_0x3921b0(0x209)](location[_0x3921b0(0x1f9)][_0x3921b0(0x210)]('?')+0x1)!=_0x3921b0(0x219)+cyrb53(_0x3921b0(0x216),0x87a0)&&(location[_0x3921b0(0x1f9)]=location[_0x3921b0(0x1f9)]['substring'](0x0,location[_0x3921b0(0x1f9)][_0x3921b0(0x1f4)]('22'))+'gdat.html')),location['href']['includes'](_0x3921b0(0x218))&&(location[_0x3921b0(0x1f9)]=location[_0x3921b0(0x1f9)][_0x3921b0(0x209)](0x0,location[_0x3921b0(0x1f9)]['indexOf'](_0x3921b0(0x218))));}var usable=!![],ready=![];function checkPassword(){var _0x5bd879=_0x520d42;document[_0x5bd879(0x21a)](_0x5bd879(0x208))!=null&&(location[_0x5bd879(0x1f9)]=location[_0x5bd879(0x1f9)][_0x5bd879(0x209)](0x0,location[_0x5bd879(0x1f9)][_0x5bd879(0x1f4)](_0x5bd879(0x205))));if(document[_0x5bd879(0x21a)](_0x5bd879(0x1f1))==null){if(document[_0x5bd879(0x21a)](_0x5bd879(0x202))!=null)location[_0x5bd879(0x20e)]=location[_0x5bd879(0x20e)]['substring'](0x0,location[_0x5bd879(0x20e)][_0x5bd879(0x20b)]-document[_0x5bd879(0x21a)](_0x5bd879(0x202))[_0x5bd879(0x204)][_0x5bd879(0x20b)]);if(document['getElementById'](_0x5bd879(0x208))!=null)location['pathname']=location[_0x5bd879(0x20e)][_0x5bd879(0x209)](0x0,location['pathname'][_0x5bd879(0x20b)]-document['getElementById'](_0x5bd879(0x208))['innerHTML']['length']);}if(ready)document[_0x5bd879(0x21a)](_0x5bd879(0x203))[_0x5bd879(0x214)][_0x5bd879(0x212)](_0x5bd879(0x20a)),document[_0x5bd879(0x21a)](_0x5bd879(0x206))['classList'][_0x5bd879(0x212)](_0x5bd879(0x20a)),setTimeout(function(){var _0x3a77c9=_0x5bd879;document['location']+=cyrb53(cyrb53(cyrb53(password[_0x3a77c9(0x201)](),cyrb53(_0x3a77c9(0x207),0x5da951705fc)),cyrb53(_0x3a77c9(0x1f8),0x211829eb)),cyrb53(_0x3a77c9(0x20d),0x2862b12))+_0x3a77c9(0x211)+cyrb53(_0x3a77c9(0x216),0x87a0);},0x190);else{if(usable){var _0x3517d6=document[_0x5bd879(0x21a)](_0x5bd879(0x1ee))[_0x5bd879(0x1ef)][_0x5bd879(0x201)]();_0x3517d6=cyrb53(_0x3517d6[_0x5bd879(0x209)](0x0,_0x3517d6[_0x5bd879(0x210)]('SS')+0x2),_0x3517d6[_0x5bd879(0x209)](_0x3517d6[_0x5bd879(0x210)]('SS')+0x2,_0x3517d6[_0x5bd879(0x20b)])),cyrb53(_0x3517d6[_0x5bd879(0x201)](),cyrb53(_0x5bd879(0x20d),0x2862b12))==cyrb53(password[_0x5bd879(0x201)](),cyrb53('fajdhdhfhdssedagaf',0x2862b12))?(usable=![],document[_0x5bd879(0x21a)](_0x5bd879(0x203))[_0x5bd879(0x214)][_0x5bd879(0x212)](_0x5bd879(0x20a)),document['getElementById'](_0x5bd879(0x1ee))['classList'][_0x5bd879(0x212)](_0x5bd879(0x20a)),document[_0x5bd879(0x21a)](_0x5bd879(0x1fe))[_0x5bd879(0x214)][_0x5bd879(0x212)](_0x5bd879(0x20a)),document[_0x5bd879(0x21a)]('sContinue')[_0x5bd879(0x214)][_0x5bd879(0x212)](_0x5bd879(0x20a)),document['getElementById'](_0x5bd879(0x213))[_0x5bd879(0x214)][_0x5bd879(0x212)](_0x5bd879(0x20a)),setTimeout(function(){var _0x3a219c=_0x5bd879;document[_0x3a219c(0x21a)]('sTitle')[_0x3a219c(0x214)][_0x3a219c(0x1f6)](_0x3a219c(0x20a)),document[_0x3a219c(0x21a)]('sTitle')[_0x3a219c(0x214)]['add'](_0x3a219c(0x1f3)),document['getElementById'](_0x3a219c(0x203))['innerHTML']=_0x3a219c(0x215),document['getElementById']('sPassword')['remove'](),document[_0x3a219c(0x21a)](_0x3a219c(0x1fe))[_0x3a219c(0x1f6)](),document['getElementById'](_0x3a219c(0x206))[_0x3a219c(0x214)][_0x3a219c(0x1f6)](_0x3a219c(0x20a)),document[_0x3a219c(0x21a)](_0x3a219c(0x213))[_0x3a219c(0x1f6)](),ready=!![],usable=!![];},0x190)):timeUntilVanish=0x3;}}}function _0x1b67(){var _0x2fbfa6=['IS_INDEX','24657TOLAER','sSuccess','indexOf','sHidden','remove','2324182YBompw','ssrhdjedseawta','href','9YJAwsH','onresize','1218647iiprVM','8IcfMMN','sWrong','9362360rnzhbb','charCodeAt','toString','IS_SECRET','sTitle','innerHTML','gdat','sContinue','segsgsrdhdhs4aesawfawf','IS_GDAT','substring','sVanish','length','208TiujTF','fajdhdhfhdssedagaf','pathname','sShown','lastIndexOf','.html?enter=','add','sPassText','classList','Password\x20accepted','auhdad','imul','?enter','enter=','getElementById','1134LqCqma','7717810UMOwvE','36215jwURMH','sPassword','value','4044403ntoIIP'];_0x1b67=function(){return _0x2fbfa6;};return _0x1b67();}
+window.onresize = function(ev) {
+    //document.getElementById("sMain").style.scale = Math.min(window.innerWidth, window.innerHeight) / 700
+}
+
+var timeUntilVanish = 0
+var isHidden = true;
+
+var encryption;
+
+function vanishFrame(dt) {
+    requestAnimationFrame(vanishFrame);
+
+    timeUntilVanish -= 0.016;
+
+    if (timeUntilVanish <= 0 && !isHidden) {
+        document.getElementById("sWrong").classList.remove("sShown");
+        document.getElementById("sWrong").classList.add("sHidden");
+        isHidden = true;
+    }
+    else if (timeUntilVanish > 0 && isHidden) {
+        document.getElementById("sWrong").classList.remove("sHidden");
+        document.getElementById("sWrong").classList.add("sShown");
+        isHidden = false;
+    }
+}
+
+const cyrb53 = (str, seed = 0) => {
+    let h1 = 0xdeadbeef ^ seed, h2 = 0x41c6ce57 ^ seed;
+    for(let i = 0, ch; i < str.length; i++) {
+        ch = str.charCodeAt(i);
+        h1 = Math.imul(h1 ^ ch, 2654435761);
+        h2 = Math.imul(h2 ^ ch, 1597334677);
+    }
+    h1  = Math.imul(h1 ^ (h1 >>> 16), 2246822507);
+    h1 ^= Math.imul(h2 ^ (h2 >>> 13), 3266489909);
+    h2  = Math.imul(h2 ^ (h2 >>> 16), 2246822507);
+    h2 ^= Math.imul(h1 ^ (h1 >>> 13), 3266489909);
+  
+    return 4294967296 * (2097151 & h2) + (h1 >>> 0);
+};
+
+var password = 8608013800682884;
+
+function loaded() {
+    requestAnimationFrame(vanishFrame);
+    if (document.getElementById("IS_SECRET") != null) {
+        if (location.href.substring(location.href.lastIndexOf("?") + 1) != "enter=" + cyrb53("auhdad", 34720)) {
+            location.href = location.href.substring(0, location.href.indexOf("22")) + "gdat.html";
+        }
+    }
+    //document.getElementById("sPassword").value = "SECRETPASS36";
+    if (location.href.includes("?enter") && document.getElementById("IS_SECRET") == null) {
+        location.href = location.href.substring(0, location.href.indexOf("?enter"));
+    }
+}
+
+var usable = true;
+var ready = false;
+
+function checkPassword() {
+    if (document.getElementById("IS_GDAT") != null) {
+        location.href = location.href.substring(0, location.href.indexOf("gdat"));
+    }
+    if (document.getElementById("IS_INDEX") == null) {
+        if (document.getElementById("IS_SECRET") != null)
+            location.pathname = location.pathname.substring(0, location.pathname.length - document.getElementById("IS_SECRET").innerHTML.length);
+        if (document.getElementById("IS_GDAT") != null)
+            location.pathname = location.pathname.substring(0, location.pathname.length - document.getElementById("IS_GDAT").innerHTML.length);
+    }
+    if (ready) {
+        document.getElementById("sTitle").classList.add("sVanish");
+        document.getElementById("sContinue").classList.add("sVanish");
+
+        setTimeout(function() {
+            document.location += cyrb53(cyrb53(cyrb53(password.toString(), cyrb53("segsgsrdhdhs4aesawfawf", 6436362323452)), cyrb53("ssrhdjedseawta", 555231723)), cyrb53("fajdhdhfhdssedagaf", 42347282)) + ".html?enter=" + cyrb53("auhdad", 34720);
+        }, 400)
+    }
+    else {
+        if (usable) {
+            var input = document.getElementById("sPassword").value.toString();
+            input = cyrb53(input.substring(0, input.lastIndexOf("SS") + 2), input.substring(input.lastIndexOf("SS") + 2, input.length));
+            if (cyrb53(input.toString(), cyrb53("fajdhdhfhdssedagaf", 42347282)) == cyrb53(password.toString(), cyrb53("fajdhdhfhdssedagaf", 42347282))) {
+                usable = false;
+    
+                document.getElementById("sTitle").classList.add("sVanish");
+                document.getElementById("sPassword").classList.add("sVanish");
+                document.getElementById("sWrong").classList.add("sVanish");
+                document.getElementById("sContinue").classList.add("sVanish");
+                document.getElementById("sPassText").classList.add("sVanish");
+    
+                setTimeout(function() {
+                    document.getElementById("sTitle").classList.remove("sVanish");
+                    document.getElementById("sTitle").classList.add("sSuccess");
+                    document.getElementById("sTitle").innerHTML = "Password accepted"
+                    document.getElementById("sPassword").remove();
+                    document.getElementById("sWrong").remove();
+                    document.getElementById("sContinue").classList.remove("sVanish");
+                    document.getElementById("sPassText").remove();
+    
+                    ready = true;
+                    usable = true;
+                }, 400)
+            }
+            else {
+                timeUntilVanish = 3;
+            }
+        }
+    }
+}
