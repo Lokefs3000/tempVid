@@ -1,0 +1,89 @@
+html, body {
+    --lowl: #0f0f0f;
+    --low: #1c1c1c;
+    --med: #262626;
+    --high: #3b3b3b;
+    --max: #515151;
+
+    background-color: var(--low);
+    color: red;
+
+    font-family: 'Silkscreen', cursive;
+}
+
+#sMain {
+    display: grid;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#sWrong {
+    position: relative;
+    width: 100%;
+    text-align: center;
+    transition: color 300ms;
+    animation: sWrongShownAnimation 1000ms infinite ease-in-out;
+    transition: filter 300ms, color 300ms;
+}
+
+button, input {
+    background-color: var(--med);
+    border: 1px var(--high) solid;
+    color: white;
+    font-family: 'Silkscreen', cursive;
+    transition: background-color 300ms, border 300ms;
+    transition: filter 300ms, color 300ms;
+}
+
+button:hover, input:hover {
+    background-color: var(--high);
+    border: 1px var(--max) solid;
+}
+
+.sHidden {
+    color: #ff000000;
+}
+
+.sShown {
+    color: #ff0000ff;
+}
+
+@keyframes sWrongShownAnimation {
+    0%, 100% {
+        transform: translateX(-3%);
+    }
+    50% {
+        transform: translateX(3%);
+    }
+}
+
+.sVanish {
+    filter: opacity(0);
+    color: #ffffff00;
+}
+
+.sSuccess {
+    color: lime;
+}
+
+#sPassText, #sTitle {
+    transition: filter 300ms, color 300ms;
+}
+
+#sVideo {
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 40%;
+    border: var(--high) solid 4px;
+    box-shadow: 8px 8px var(--lowl);
+    transition: border 300ms, box-shadow 300ms, width 300ms;
+}
+
+#sVideo:hover {
+    width: 55%;
+    border: var(--max) solid 4px;
+    box-shadow: 8px 8px var(--med);
+}
